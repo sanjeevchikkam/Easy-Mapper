@@ -2,7 +2,7 @@ import io
 import pandas as pd
 from fastapi import APIRouter, UploadFile, File, HTTPException
 from fastapi.responses import StreamingResponse
-from services.pharmcy_match import match_medicines
+from services.pharmacy_match import match_medicines
 
 router = APIRouter(prefix="/pharmacy", tags=["Pharmacy"])
 
