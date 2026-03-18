@@ -1,0 +1,101 @@
+lab_test_id,lab_test_name
+L001,CBC
+L002,cbc with differential
+L003,Complete Blood Count
+L004,LFT
+L005,liver function test
+L006,Liver Function Panel
+L007,KFT
+L008,kidney function test
+L009,RFT basic
+L010,TSH test
+L011,tsh thyroid
+L012,Thyroid Stimulating Hormone
+L013,FT3 test
+L014,ft4 free thyroxine
+L015,HbA1c
+L016,hba1c glycated
+L017,Fasting Blood Sugar
+L018,FBS glucose
+L019,PPBS test
+L020,rbs random glucose
+L021,Blood Sugar Fasting
+L022,blood sugar pp
+L023,Urine RE
+L024,urine routine
+L025,Urine Routine Examination
+L026,ESR test
+L027,esr westergren
+L028,CRP
+L029,crp quantitative
+L030,C Reactive Protein
+L031,Vitamin D
+L032,vit d3 25 oh
+L033,Vitamin D3 Total
+L034,VitB12
+L035,vitamin b12 serum
+L036,Vitamin B12 Level
+L037,ECG
+L038,ecg 12 lead
+L039,Electrocardiogram resting
+L040,USG Abdomen
+L041,usg whole abdomen
+L042,Ultrasound Abdomen Pelvis
+L043,MRI Brain
+L044,mri spine lumbar
+L045,CT Chest
+L046,ct scan abdomen
+L047,Lipid Profile
+L048,lipid profile full
+L049,cholesterol lipid panel
+L050,Serum Cholesterol
+L051,HDL Cholesterol
+L052,ldl cholesterol direct
+L053,Triglycerides
+L054,triglycerides serum
+L055,Blood Urea
+L056,blood urea nitrogen
+L057,Serum Creatinine
+L058,creatinine serum
+L059,Uric Acid
+L060,uric acid serum
+L061,Sodium Serum
+L062,serum sodium
+L063,Potassium Serum
+L064,serum potassium
+L065,Calcium Serum
+L066,serum calcium total
+L067,Hemoglobin
+L068,hb haemoglobin
+L069,Platelet Count
+L070,platelet plt count
+L071,WBC Count
+L072,wbc total leukocyte count
+L073,RBC Count
+L074,rbc erythrocyte count
+L075,Hematocrit
+L076,pcv hematocrit
+L077,Dengue NS1 Antigen
+L078,dengue ns1 ag
+L079,Dengue IgM IgG
+L080,malaria antigen test
+L081,Malaria Parasite
+L082,typhoid widal test
+L083,Widal Test
+L084,HIV Test
+L085,hiv 1 2 antibody
+L086,HBsAg
+L087,hbsag hepatitis b
+L088,Anti HCV
+L089,hepatitis c antibody
+L090,VDRL Test
+L091,vdrl syphilis
+L092,Pregnancy Test Urine
+L093,urine pregnancy hcg
+L094,Beta HCG Serum
+L095,serum beta hcg quantitative
+L096,PSA Total
+L097,psa prostate specific antigen
+L098,CEA Tumor Marker
+L099,ca 125 tumor marker
+L100,AFP Alpha Fetoprotein

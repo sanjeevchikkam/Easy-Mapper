@@ -1,0 +1,51 @@
+master_test_id,master_test_name
+T001,Complete Blood Count
+T002,Liver Function Test
+T003,Kidney Function Test
+T004,Thyroid Stimulating Hormone
+T005,Free Triiodothyronine FT3
+T006,Free Thyroxine FT4
+T007,Glycated Hemoglobin HbA1c
+T008,Fasting Blood Sugar
+T009,Postprandial Blood Sugar
+T010,Random Blood Sugar
+T011,Urine Routine Examination
+T012,Erythrocyte Sedimentation Rate
+T013,C Reactive Protein
+T014,Vitamin D Total
+T015,Vitamin B12
+T016,Electrocardiogram
+T017,Ultrasound Abdomen
+T018,MRI Brain
+T019,MRI Spine
+T020,CT Chest
+T021,CT Abdomen
+T022,Lipid Profile
+T023,HDL Cholesterol
+T024,LDL Cholesterol
+T025,Triglycerides
+T026,Blood Urea
+T027,Serum Creatinine
+T028,Serum Uric Acid
+T029,Serum Sodium
+T030,Serum Potassium
+T031,Serum Calcium
+T032,Hemoglobin
+T033,Platelet Count
+T034,Total Leukocyte Count
+T035,RBC Count
+T036,Hematocrit PCV
+T037,Dengue NS1 Antigen
+T038,Dengue Antibody IgM IgG
+T039,Malaria Antigen Test
+T040,Widal Test
+T041,HIV 1 and 2 Antibody
+T042,Hepatitis B Surface Antigen
+T043,Hepatitis C Antibody
+T044,VDRL Test
+T045,Urine Pregnancy Test
+T046,Beta HCG Serum
+T047,PSA Total
+T048,CEA Carcinoembryonic Antigen
+T049,CA 125
+T050,Alpha Fetoprotein AFP
