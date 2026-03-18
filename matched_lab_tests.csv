@@ -1,101 +1,101 @@
-# Total: 100 | Matched: 87 | Unmatched: 13 | Threshold: 70.0%
+# Total: 100 | Matched: 87 | Unmatched: 13 | Threshold: 70.0%,,,,
 lab_test_id,lab_test_name,master_test_id,matched_name,score
-L001,CBC,T001,Complete Blood Count,100.0
+L001,CBC,T001,Complete Blood Count,100
 L002,cbc with differential,T001,Complete Blood Count,76.17
-L003,Complete Blood Count,T001,Complete Blood Count,100.0
-L004,LFT,T002,Liver Function Test,100.0
-L005,liver function test,T002,Liver Function Test,100.0
+L003,Complete Blood Count,T001,Complete Blood Count,100
+L004,LFT,T002,Liver Function Test,100
+L005,liver function test,T002,Liver Function Test,100
 L006,Liver Function Panel,T002,Liver Function Test,72.89
-L007,KFT,T003,Kidney Function Test,100.0
-L008,kidney function test,T003,Kidney Function Test,100.0
+L007,KFT,T003,Kidney Function Test,100
+L008,kidney function test,T003,Kidney Function Test,100
 L009,RFT basic,T003,Kidney Function Test,90.64
 L010,TSH test,T004,Thyroid Stimulating Hormone,82.85
 L011,tsh thyroid,T004,Thyroid Stimulating Hormone,97.32
-L012,Thyroid Stimulating Hormone,T004,Thyroid Stimulating Hormone,100.0
+L012,Thyroid Stimulating Hormone,T004,Thyroid Stimulating Hormone,100
 L013,FT3 test,T005,Free Triiodothyronine FT3,83.92
-L014,ft4 free thyroxine,T006,Free Thyroxine FT4,100.0
+L014,ft4 free thyroxine,T006,Free Thyroxine FT4,100
 L015,HbA1c,T007,Glycated Hemoglobin HbA1c,96.81
 L016,hba1c glycated,T007,Glycated Hemoglobin HbA1c,97.48
-L017,Fasting Blood Sugar,T008,Fasting Blood Sugar,100.0
+L017,Fasting Blood Sugar,T008,Fasting Blood Sugar,100
 L018,FBS glucose,T008,Fasting Blood Sugar,94.46
 L019,PPBS test,T009,Postprandial Blood Sugar,85.24
 L020,rbs random glucose,T010,Random Blood Sugar,92.46
 L021,Blood Sugar Fasting,T008,Fasting Blood Sugar,95.69
 L022,blood sugar pp,T009,Postprandial Blood Sugar,75.63
-L023,Urine RE,T011,Urine Routine Examination,100.0
+L023,Urine RE,T011,Urine Routine Examination,100
 L024,urine routine,T011,Urine Routine Examination,83.17
-L025,Urine Routine Examination,T011,Urine Routine Examination,100.0
+L025,Urine Routine Examination,T011,Urine Routine Examination,100
 L026,ESR test,T012,Erythrocyte Sedimentation Rate,93.15
 L027,esr westergren,T012,Erythrocyte Sedimentation Rate,86.07
-L028,CRP,T013,C Reactive Protein,100.0
+L028,CRP,T013,C Reactive Protein,100
 L029,crp quantitative,T013,C Reactive Protein,90.79
-L030,C Reactive Protein,T013,C Reactive Protein,100.0
+L030,C Reactive Protein,T013,C Reactive Protein,100
 L031,Vitamin D,T014,Vitamin D Total,84.09
 L032,vit d3 25 oh,,NOT MATCHED,42.36
 L033,Vitamin D3 Total,T014,Vitamin D Total,85.44
-L034,VitB12,T015,Vitamin B12,100.0
+L034,VitB12,T015,Vitamin B12,100
 L035,vitamin b12 serum,T015,Vitamin B12,81.8
 L036,Vitamin B12 Level,T015,Vitamin B12,85.8
-L037,ECG,T016,Electrocardiogram,100.0
+L037,ECG,T016,Electrocardiogram,100
 L038,ecg 12 lead,T016,Electrocardiogram,71.42
 L039,Electrocardiogram resting,T016,Electrocardiogram,78.08
-L040,USG Abdomen,T017,Ultrasound Abdomen,100.0
+L040,USG Abdomen,T017,Ultrasound Abdomen,100
 L041,usg whole abdomen,T017,Ultrasound Abdomen,91.13
 L042,Ultrasound Abdomen Pelvis,T017,Ultrasound Abdomen,89.61
-L043,MRI Brain,T018,MRI Brain,100.0
+L043,MRI Brain,T018,MRI Brain,100
 L044,mri spine lumbar,T019,MRI Spine,83.32
-L045,CT Chest,T020,CT Chest,100.0
+L045,CT Chest,T020,CT Chest,100
 L046,ct scan abdomen,T021,CT Abdomen,96.43
-L047,Lipid Profile,T022,Lipid Profile,100.0
-L048,lipid profile full,T022,Lipid Profile,85.0
+L047,Lipid Profile,T022,Lipid Profile,100
+L048,lipid profile full,T022,Lipid Profile,85
 L049,cholesterol lipid panel,,NOT MATCHED,61.49
 L050,Serum Cholesterol,,NOT MATCHED,69.97
-L051,HDL Cholesterol,T023,HDL Cholesterol,100.0
+L051,HDL Cholesterol,T023,HDL Cholesterol,100
 L052,ldl cholesterol direct,T024,LDL Cholesterol,90.09
-L053,Triglycerides,T025,Triglycerides,100.0
+L053,Triglycerides,T025,Triglycerides,100
 L054,triglycerides serum,T025,Triglycerides,83.36
-L055,Blood Urea,T026,Blood Urea,100.0
+L055,Blood Urea,T026,Blood Urea,100
 L056,blood urea nitrogen,T026,Blood Urea,80.57
-L057,Serum Creatinine,T027,Serum Creatinine,100.0
+L057,Serum Creatinine,T027,Serum Creatinine,100
 L058,creatinine serum,T027,Serum Creatinine,98.82
 L059,Uric Acid,T028,Serum Uric Acid,82.59
 L060,uric acid serum,T028,Serum Uric Acid,98.65
 L061,Sodium Serum,T029,Serum Sodium,97.52
-L062,serum sodium,T029,Serum Sodium,100.0
+L062,serum sodium,T029,Serum Sodium,100
 L063,Potassium Serum,T030,Serum Potassium,97.17
-L064,serum potassium,T030,Serum Potassium,100.0
+L064,serum potassium,T030,Serum Potassium,100
 L065,Calcium Serum,T031,Serum Calcium,96.91
 L066,serum calcium total,T031,Serum Calcium,90.41
-L067,Hemoglobin,T032,Hemoglobin,100.0
+L067,Hemoglobin,T032,Hemoglobin,100
 L068,hb haemoglobin,T032,Hemoglobin,83.54
-L069,Platelet Count,T033,Platelet Count,100.0
+L069,Platelet Count,T033,Platelet Count,100
 L070,platelet plt count,T033,Platelet Count,85.01
 L071,WBC Count,,NOT MATCHED,66.02
 L072,wbc total leukocyte count,T034,Total Leukocyte Count,90.53
-L073,RBC Count,T035,RBC Count,100.0
+L073,RBC Count,T035,RBC Count,100
 L074,rbc erythrocyte count,T035,RBC Count,75.77
 L075,Hematocrit,,NOT MATCHED,69.04
 L076,pcv hematocrit,T036,Hematocrit PCV,99.41
-L077,Dengue NS1 Antigen,T037,Dengue NS1 Antigen,100.0
+L077,Dengue NS1 Antigen,T037,Dengue NS1 Antigen,100
 L078,dengue ns1 ag,T037,Dengue NS1 Antigen,80.69
 L079,Dengue IgM IgG,T038,Dengue Antibody IgM IgG,89.47
-L080,malaria antigen test,T039,Malaria Antigen Test,100.0
+L080,malaria antigen test,T039,Malaria Antigen Test,100
 L081,Malaria Parasite,,NOT MATCHED,69.68
 L082,typhoid widal test,,NOT MATCHED,69.53
-L083,Widal Test,T040,Widal Test,100.0
+L083,Widal Test,T040,Widal Test,100
 L084,HIV Test,,NOT MATCHED,55.35
 L085,hiv 1 2 antibody,T041,HIV 1 and 2 Antibody,97.01
 L086,HBsAg,,NOT MATCHED,45.58
 L087,hbsag hepatitis b,T042,Hepatitis B Surface Antigen,71.05
 L088,Anti HCV,,NOT MATCHED,55.82
-L089,hepatitis c antibody,T043,Hepatitis C Antibody,100.0
-L090,VDRL Test,T044,VDRL Test,100.0
+L089,hepatitis c antibody,T043,Hepatitis C Antibody,100
+L090,VDRL Test,T044,VDRL Test,100
 L091,vdrl syphilis,,NOT MATCHED,62.19
 L092,Pregnancy Test Urine,T045,Urine Pregnancy Test,98.35
 L093,urine pregnancy hcg,T045,Urine Pregnancy Test,75.19
-L094,Beta HCG Serum,T046,Beta HCG Serum,100.0
+L094,Beta HCG Serum,T046,Beta HCG Serum,100
 L095,serum beta hcg quantitative,T046,Beta HCG Serum,93.23
-L096,PSA Total,T047,PSA Total,100.0
+L096,PSA Total,T047,PSA Total,100
 L097,psa prostate specific antigen,,NOT MATCHED,50.79
 L098,CEA Tumor Marker,T048,CEA Carcinoembryonic Antigen,71.79
 L099,ca 125 tumor marker,,NOT MATCHED,66.1

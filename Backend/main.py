@@ -1,10 +1,18 @@
 from fastapi import FastAPI
 from routes.pharmacy import router as pharmacy_router
+from fastapi.middleware.cors import CORSMiddleware
 from routes.labtest import router as lab_router
 
 #Create app
 
 app = FastAPI(title = "Medicine, Lab Test Matcher API")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(pharmacy_router)
 app.include_router(lab_router)

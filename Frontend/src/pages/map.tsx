@@ -28,7 +28,7 @@ function parseStats(firstLine: string): MappingStats {
   };
 }
 
-export default function Index() {
+export default function Map() {
   const [mode, setMode] = useState<AppMode>("pharmacy");
   const [files, setFiles] = useState<{ inventory: File | null; master: File | null }>({
     inventory: null,
