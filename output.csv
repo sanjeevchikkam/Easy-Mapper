@@ -1,0 +1,102 @@
+# Total: 100 | Matched: 57 | Unmatched: 43 | Threshold: 70.0%
+p_inv_id,pharmacy_medicine_name,master_id,matched_name,score
+P001,Tab Paracetamol 500mg,,NOT MATCHED,69.82
+P002,paracetamol tab 650,,NOT MATCHED,62.87
+P003,Amoxcillin cap 250mg,M007,Amoxil 250mg Capsule,83.13
+P004,amoxicillin 500 cap,M007,Amoxil 250mg Capsule,75.62
+P005,Azithromycin tab 250,M008,Zithromax 250mg Tablet,78.78
+P006,azithromycin 500mg tablet,M009,Zithromax 500mg Tablet,81.38
+P007,Metformin tab 500mg,,NOT MATCHED,66.48
+P008,METFORMIN 1000MG TAB,,NOT MATCHED,69.96
+P009,atorvastatin tab 10mg,M014,Atorva 10mg Tablet,82.51
+P010,Atorvastatin 20 mg tab,M015,Atorva 20mg Tablet,80.58
+P011,omeprazole cap 20mg,M017,Omez 20mg Capsule,76.26
+P012,Omeprazole 40mg capsule,M018,Omez 40mg Capsule,77.13
+P013,Cetirizine tab 10mg,M061,Cipralex 10mg Tablet,72.22
+P014,cetirizine hcl 10mg tab,,NOT MATCHED,64.91
+P015,ibuprofen 400mg tab,M095,Shelcal 500mg Tablet,70.64
+P016,Tab Ibuprofen 200mg,,NOT MATCHED,68.63
+P017,Pantoprazole tab 40mg,M025,Pan 40mg Tablet,74.85
+P018,pantoprazole 20mg tablet,M026,Pan 20mg Tablet,77.23
+P019,Metronidazole tab 400mg,M030,Metrogyl 400mg Tablet,83.31
+P020,metronidazole 200mg tab,M030,Metrogyl 400mg Tablet,81.09
+P021,Losartan tab 50mg,M031,Cozaar 50mg Tablet,71.1
+P022,LOSARTAN 100MG TABLET,M070,Contramal 100mg Tablet,70.36
+P023,amlodipine 5mg tab,M034,Amlip 5mg Tablet,73.97
+P024,Amlodipine tab 10mg,M035,Amlip 10mg Tablet,73.08
+P025,Dolo 650 tab paracetamol,M003,Dolo 650mg Tablet,76.68
+P026,crocin 500 paracetamol,,NOT MATCHED,66.47
+P027,Augmentin tab 625,M037,Augmentin 625mg Tablet,94.28
+P028,augmentin 1000mg tab,M038,Augmentin 1000mg Tablet,100.0
+P029,ciprofloxacin 500 tab,M041,Ciplox 500mg Tablet,82.26
+P030,Ciprofloxacin tab 250mg,M041,Ciplox 500mg Tablet,77.81
+P031,Dexamethasone inj 4mg,M042,Dexona 4mg Injection,85.25
+P032,dexamethasone tab 0.5mg,M043,Dexona 0.5mg Tablet,87.59
+P033,Ondansetron tab 4mg,M046,Zofran 4mg Tablet,73.31
+P034,ondansetron 8mg tab,,NOT MATCHED,68.49
+P035,ranitidine tab 150mg,,NOT MATCHED,63.14
+P036,Ranitidine 300mg tab,,NOT MATCHED,65.76
+P037,Montelukast tab 10mg,M049,Montair 10mg Tablet,71.08
+P038,montelukast 5mg chewable tab,,NOT MATCHED,60.89
+P039,Levocetrizine tab 5mg,M051,Levocet 5mg Tablet,92.9
+P040,levocetirizine 2.5mg syp,M051,Levocet 5mg Tablet,72.17
+P041,Salbutamol inhaler 100mcg,,NOT MATCHED,66.07
+P042,salbutamol syp 2mg,,NOT MATCHED,65.98
+P043,Insulin glargine inj 100units,,NOT MATCHED,47.91
+P044,insulin regular inj 40units,,NOT MATCHED,57.24
+P045,Gabapentin cap 300mg,M057,Neurontin 300mg Capsule,70.8
+P046,gabapentin 100mg capsule,M058,Neurontin 100mg Capsule,70.65
+P047,Sertraline tab 50mg,M059,Zoloft 50mg Tablet,76.35
+P048,sertraline 100mg tab,M060,Zoloft 100mg Tablet,76.78
+P049,Escitalopram tab 10mg,M072,Esidrex 12.5mg Tablet,77.39
+P050,escitalopram 20mg tablet,M071,Esidrex 25mg Tablet,78.43
+P051,Clonazepam tab 0.5mg,M043,Dexona 0.5mg Tablet,70.66
+P052,clonazepam 1mg tab,,NOT MATCHED,68.29
+P053,Alprazolam tab 0.25mg,M065,Alprax 0.25mg Tablet,82.74
+P054,alprazolam 0.5 mg tablet,M066,Alprax 0.5mg Tablet,81.8
+P055,Diclofenac tab 50mg,M067,Voveran 50mg Tablet,73.0
+P056,diclofenac sodium 75mg tab,,NOT MATCHED,65.64
+P057,Tramadol cap 50mg,,NOT MATCHED,65.1
+P058,tramadol 100mg tab,M070,Contramal 100mg Tablet,72.0
+P059,Hydrochlorothiazide tab 25mg,,NOT MATCHED,67.93
+P060,hydrochlorothiazide 12.5mg tab,,NOT MATCHED,65.91
+P061,Furosemide tab 40mg,M073,Lasix 40mg Tablet,75.71
+P062,furosemide inj 10mg,M074,Lasix Injection 10mg,78.76
+P063,Spironolactone tab 25mg,,NOT MATCHED,69.02
+P064,spironolactone 50mg tablet,M067,Voveran 50mg Tablet,73.19
+P065,Warfarin tab 5mg,M077,Coumadin 5mg Tablet,75.17
+P066,warfarin sodium 2mg tab,M078,Coumadin 2mg Tablet,75.41
+P067,Clopidogrel tab 75mg,,NOT MATCHED,69.81
+P068,clopidogrel 150mg tab,M080,Plavix 150mg Tablet,71.92
+P069,Rosuvastatin tab 10mg,,NOT MATCHED,67.31
+P070,rosuvastatin 20mg tab,,NOT MATCHED,68.54
+P071,Sitagliptin tab 100mg,,NOT MATCHED,66.35
+P072,sitagliptin 50mg tablet,M067,Voveran 50mg Tablet,70.58
+P073,Glimepiride tab 1mg,M012,Glycomet 1000mg Tablet,74.68
+P074,glimepiride 2mg tab,M012,Glycomet 1000mg Tablet,73.73
+P075,Lisinopril tab 5mg,M087,Zestril 5mg Tablet,80.46
+P076,lisinopril 10mg tablet,M088,Zestril 10mg Tablet,82.12
+P077,Telmisartan tab 40mg,M067,Voveran 50mg Tablet,78.34
+P078,telmisartan 80mg tab,M067,Voveran 50mg Tablet,77.77
+P079,Ramipril cap 2.5mg,,NOT MATCHED,68.22
+P080,ramipril 5mg tablet,M063,Rivotril 0.5mg Tablet,76.85
+P081,Vitamin D3 tab 60000iu,,NOT MATCHED,53.52
+P082,vitamin d3 1000iu capsule,,NOT MATCHED,51.47
+P083,Calcium carbonate tab 500mg,M001,Calpol 500mg Tablet,75.43
+P084,calcium + vit d3 tab,,NOT MATCHED,50.77
+P085,Ferrous sulphate tab 200mg,,NOT MATCHED,68.5
+P086,ferrous sulphate syp,M098,Fersolate Syrup,71.09
+P087,Folic acid tab 5mg,,NOT MATCHED,67.17
+P088,folic acid 1mg tablet,,NOT MATCHED,65.63
+P089,Multivitamin tab daily,,NOT MATCHED,51.56
+P090,multivitamin capsule,,NOT MATCHED,58.48
+P091,Azithromycin syp 200mg,M103,Zithromax Syrup 200mg,81.2
+P092,amoxicillin syp 125mg,,NOT MATCHED,69.91
+P093,Paracetamol syp 120mg,,NOT MATCHED,61.91
+P094,ibuprofen syp 100mg,,NOT MATCHED,66.6
+P095,Ondansetron syp 4mg,,NOT MATCHED,64.9
+P096,cetirizine syp 5mg,,NOT MATCHED,64.49
+P097,Metformin SR tab 500mg,,NOT MATCHED,68.58
+P098,Telmisartan + amlodipine tab,,NOT MATCHED,65.78
+P099,Atorvastatin + ezetimibe tab,,NOT MATCHED,68.95
+P100,pantoprazole + domperidone cap,,NOT MATCHED,53.02
