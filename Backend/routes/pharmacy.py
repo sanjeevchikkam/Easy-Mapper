@@ -25,7 +25,7 @@ def validate_columns(df: pd.DataFrame, required: list, filename: str):
         )
 
 
-@router.post("/pharmacy_match")
+@router.post("/pharmacy_match") 
 async def match_pharmacy_medicines(
     pharmacy_file: UploadFile = File(..., description="Pharmacy inventory CSV"),
     master_file:   UploadFile = File(..., description="Master medicine list CSV"),
@@ -33,14 +33,14 @@ async def match_pharmacy_medicines(
     pharmacy_df = read_csv_file(pharmacy_file)
     master_df   = read_csv_file(master_file)
 
+
     validate_columns(pharmacy_df, ["p_inv_id", "pharmacy_medicine_name"], pharmacy_file.filename)
     validate_columns(master_df,   ["master_medicine_id", "master_medicine_name"], master_file.filename)
 
-    # ── matcher now returns both the result DataFrame and summary stats
+
     result_df, summary = match_medicines(pharmacy_df, master_df)
 
-    # ── Write summary as comment lines at the top of the CSV
-    #    so whoever opens the file sees the stats immediately
+
     buffer = io.StringIO()
     buffer.write(f"# Total: {summary['total']} | Matched: {summary['matched']} | Unmatched: {summary['unmatched']} | Threshold: {summary['threshold']}%\n")
     result_df.to_csv(buffer, index=False)

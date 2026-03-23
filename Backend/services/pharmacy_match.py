@@ -11,6 +11,7 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+
 ABBREV_MAP = {
     r"\btab\b":  "tablet",
     r"\bcap\b":  "capsule",
@@ -18,6 +19,7 @@ ABBREV_MAP = {
     r"\bsyp\b":  "syrup",
     r"\boint\b": "ointment",
 }
+
 
 def expand_abbreviations(text: str) -> str:
     for pattern, replacement in ABBREV_MAP.items():
@@ -42,11 +44,13 @@ def match_medicines(pharmacy_df: pd.DataFrame, master_df: pd.DataFrame) -> tuple
         show_progress_bar=False,
         batch_size=64
     )
+    # dolo paracet [0.5,0.6]
     master_embeddings = model.encode(
         master["normalized_name"].tolist(),
         show_progress_bar=False,
         batch_size=64
     )
+    # Dolo 650[0.5,0.8]
 
     similarity_matrix  = cosine_similarity(pharmacy_embeddings, master_embeddings)
     best_match_indices = similarity_matrix.argmax(axis=1)
